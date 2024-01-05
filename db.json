@@ -180,5 +180,77 @@
       "value": 456.0815488221124,
       "cnpj": "43602508588154"
     }
+  ],
+  "events": [
+    {
+      "id": "12732054-be86-4c06-9d76-c37b2fe28b1a",
+      "name": "Evento Macedo-Nogueira",
+      "valueAvailable": 7370.56,
+      "saleEndDate": "2024-01-02T04:23:47.788Z",
+      "saleStartDate": "2023-09-10T15:42:50.702Z"
+    },
+    {
+      "id": "b5e92f32-5c1e-4ea3-9cfd-a2be07e2188f",
+      "name": "Evento Franco LTDA",
+      "valueAvailable": 1299.49,
+      "saleEndDate": "2024-01-09T04:05:03.601Z",
+      "saleStartDate": "2023-10-19T12:48:03.545Z"
+    },
+    {
+      "id": "ed3b3571-09d7-4833-92a8-c4349e0ecdbf",
+      "name": "Evento Souza, Moraes e Nogueira",
+      "valueAvailable": 6348.68,
+      "saleEndDate": "2024-01-09T14:42:47.529Z",
+      "saleStartDate": "2023-09-16T23:36:17.972Z"
+    },
+    {
+      "id": "7dae1ef9-0774-4578-be7f-b9713c91d717",
+      "name": "Evento Braga Comércio",
+      "valueAvailable": 5554.97,
+      "saleEndDate": "2023-11-11T02:45:49.693Z",
+      "saleStartDate": "2023-10-23T10:47:56.571Z"
+    },
+    {
+      "id": "7b7de69d-d0d6-4d53-83db-041a5ce25430",
+      "name": "Evento Costa-Melo",
+      "valueAvailable": 2130.3,
+      "saleEndDate": "2024-02-25T23:08:54.261Z",
+      "saleStartDate": "2023-09-30T03:34:41.489Z"
+    },
+    {
+      "id": "cd9e168c-cc75-49c2-a6e2-6b0c0295a652",
+      "name": "Evento Nogueira LTDA",
+      "valueAvailable": 7960.02,
+      "saleEndDate": "2024-02-14T05:12:59.479Z",
+      "saleStartDate": "2023-08-14T00:36:06.473Z"
+    },
+    {
+      "id": "893f7a4e-1a2c-4ece-bbe4-dbda3466c16b",
+      "name": "Evento Macedo, Pereira e Souza",
+      "valueAvailable": 8939.88,
+      "saleEndDate": "2023-11-23T17:03:13.552Z",
+      "saleStartDate": "2023-09-08T03:20:33.894Z"
+    },
+    {
+      "id": "8c534641-0da0-4aab-8fd3-a37affdf4e02",
+      "name": "Evento Carvalho, Silva e Santos",
+      "valueAvailable": 8402.28,
+      "saleEndDate": "2024-02-21T21:35:46.204Z",
+      "saleStartDate": "2023-10-19T12:44:23.655Z"
+    },
+    {
+      "id": "43726d10-4292-445e-b816-11be470fb221",
+      "name": "Evento Franco S.A.",
+      "valueAvailable": 8063.56,
+      "saleEndDate": "2023-11-23T16:22:56.111Z",
+      "saleStartDate": "2023-08-30T10:38:31.731Z"
+    },
+    {
+      "id": "6c94ed64-8206-4c25-a10e-07c86d1601d7",
+      "name": "Evento Costa-Saraiva",
+      "valueAvailable": 797,
+      "saleEndDate": "2023-11-23T17:50:07.837Z",
+      "saleStartDate": "2023-08-28T20:54:31.673Z"
+    }
   ]
 }
